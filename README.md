@@ -35,8 +35,6 @@ This project is licensed under a custom license.
 
 ------
 <img width="1628" height="740" alt="image" src="https://github.com/user-attachments/assets/65e07cef-6abc-4cf8-a56b-0be3ccf2b0c7" />
-<img width="1628" height="740" alt="image" src="https://github.com/user-attachments/assets/65e07cef-6abc-4cf8-a56b-0be3ccf2b0c7" />
-
 
 -------
 ## Contact
