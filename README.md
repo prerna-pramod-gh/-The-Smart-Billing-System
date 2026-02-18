@@ -38,4 +38,4 @@ This project is licensed under a custom license.
 
 If you have any questions or would like to discuss commercial licensing, feel free to reach out:
 
-# LinkedIn: https://www.linkedin.com/in/prerna-pramod-671667301/
+LinkedIn: https://www.linkedin.com/in/prerna-pramod-671667301/
