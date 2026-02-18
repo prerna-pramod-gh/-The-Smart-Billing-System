@@ -30,8 +30,8 @@ Copyright (c) 2024 [Prerna Pramod]
 
 This project is licensed under a custom license.
 
-#### Educational Use: You are free to use, copy, and modify this code for personal or educational purposes, provided that proper credit is given to the original author.
-#### Commercial Use: Commercial use of this software is strictly prohibited without a paid license. If you wish to use this software in a commercial environment, please contact the author to purchase a license.
+- Educational Use: You are free to use, copy, and modify this code for personal or educational purposes, provided that proper credit is given to the original author.
+- Commercial Use: Commercial use of this software is strictly prohibited without a paid license. If you wish to use this software in a commercial environment, please contact the author to purchase a license.
 
 ------
 ## Contact
